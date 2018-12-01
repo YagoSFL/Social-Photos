@@ -16,8 +16,6 @@ const styles = theme => ({
     }
 });
 
-
-
 function BottomAppBar(props) {
   const { classes } = props;
   return (

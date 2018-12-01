@@ -31,5 +31,4 @@ function SimpleAppBar(props) {
   );
 }
 
-
 export default withStyles(styles)(SimpleAppBar)
