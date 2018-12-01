@@ -1,0 +1,121 @@
+[{
+    "id": 1,
+    "user": "Bob",
+    "url": "https://images.pexels.com/photos/991012/pexels-photo-991012.jpeg",
+    "imgDesc": "Top view beach",
+    "upVotes": 0,
+    "downVotes": 0
+  },
+  {
+    "id": 2,
+    "user": "Anna",
+    "url": "https://images.pexels.com/photos/1628062/pexels-photo-1628062.jpeg",
+    "imgDesc": "Tokyo town",
+    "upVotes": 0,
+    "downVotes": 0
+  },
+  {
+    "id": 3,
+    "user": "Jorge",
+    "url": "https://images.pexels.com/photos/640947/pexels-photo-640947.jpeg",
+    "imgDesc": "Mountains",
+    "upVotes": 0,
+    "downVotes": 0
+  },
+  {
+    "id": 4,
+    "user": "Anna",
+    "url": "https://images.pexels.com/photos/1097768/pexels-photo-1097768.jpeg",
+    "imgDesc": "Camera lens",
+    "upVotes": 0,
+    "downVotes": 0
+  },
+  {
+    "id": 5,
+    "user": "Jorge",
+    "url": "https://images.pexels.com/photos/1624504/pexels-photo-1624504.jpeg",
+    "imgDesc": "Open night sky",
+    "upVotes": 0,
+    "downVotes": 0
+  },
+  {
+    "id": 6,
+    "user": "William",
+    "url": "https://images.pexels.com/photos/1231622/pexels-photo-1231622.jpeg",
+    "imgDesc": "Water drop",
+    "upVotes": 0,
+    "downVotes": 0
+  },
+  {
+    "id": 7,
+    "user": "Jorge",
+    "url": "https://images.pexels.com/photos/1624496/pexels-photo-1624496.jpeg",
+    "imgDesc": "Mountains in desert under night sky",
+    "upVotes": 0,
+    "downVotes": 0
+  },
+  {
+    "id": 8,
+    "user": "Clarice",
+    "url": "https://images.pexels.com/photos/1236720/pexels-photo-1236720.jpeg",
+    "imgDesc": "Taxi at night",
+    "upVotes": 0,
+    "downVotes": 0
+  },
+  {
+    "id": 9,
+    "user": "Bob",
+    "url": "https://images.pexels.com/photos/912587/pexels-photo-912587.jpeg",
+    "imgDesc": "A galaxy in the open sky",
+    "upVotes": 0,
+    "downVotes": 0
+  },
+  {
+    "id": 10,
+    "user": "Anna",
+    "url": "https://images.pexels.com/photos/290617/pexels-photo-290617.jpeg",
+    "imgDesc": "Sunlight on a leaf",
+    "upVotes": 0,
+    "downVotes": 0
+  },
+  {
+    "id": 11,
+    "user": "Bob",
+    "url": "https://images.pexels.com/photos/1556797/pexels-photo-1556797.jpeg",
+    "imgDesc": "Waves",
+    "upVotes": 0,
+    "downVotes": 0
+  },
+  {
+    "id": 12,
+    "user": "Julia",
+    "url": "https://images.pexels.com/photos/360912/pexels-photo-360912.jpeg",
+    "imgDesc": "Northern lights",
+    "upVotes": 0,
+    "downVotes": 0
+  },
+  {
+    "id": 13,
+    "user": "William",
+    "url": "https://images.pexels.com/photos/1638473/pexels-photo-1638473.jpeg",
+    "imgDesc": "Subway",
+    "upVotes": 0,
+    "downVotes": 0
+  },
+  {
+    "id": 14,
+    "user": "Julia",
+    "url": "https://images.pexels.com/photos/551628/pexels-photo-551628.jpeg",
+    "imgDesc": "Happy dog",
+    "upVotes": 0,
+    "downVotes": 0
+  },
+  {
+    "id": 15,
+    "user": "Bob",
+    "url": "https://images.pexels.com/photos/946343/pexels-photo-946343.jpeg",
+    "imgDesc": "Lighthouse",
+    "upVotes": 0,
+    "downVotes": 0
+  }
+]
