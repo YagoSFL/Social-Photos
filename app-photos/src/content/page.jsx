@@ -1,7 +1,8 @@
 import React from 'react'
 import { withStyles } from '@material-ui/core/styles'
 import Paper from '@material-ui/core/Paper' // Page background
-import TopBar from './topBar' // Page header
+import Header from './header'
+import Footer from './footer' 
 import Gallery from './gallery'// Gallery component
 
 
@@ -20,10 +21,11 @@ function Page(props) {
 
     return (
             <Paper className={classes.root}>
-                <TopBar/>
+                <Header/>
                 <Paper className={classes.back}>
                     <Gallery />
                 </Paper>
+                <Footer/>
             </Paper>
     )
 }

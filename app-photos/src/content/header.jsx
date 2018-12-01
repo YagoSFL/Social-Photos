@@ -9,7 +9,7 @@ const styles = {
     paddingBottom: 65,
     fontWeight: 'bold'
   },
-  topBar: {
+  header: {
     background: '#FF5733'
   }
 };
@@ -19,7 +19,7 @@ function SimpleAppBar(props) {
 
   return (
     <div className={classes.root}>
-      <AppBar position="fixed" className={classes.topBar}>
+      <AppBar position="fixed" className={classes.header}>
         <Toolbar>
           <CameraAlt fontSize="large"/>
           <Typography variant="h5" color="inherit">
