@@ -1,6 +1,6 @@
 import React, { Fragment } from 'react'
 import { withStyles } from '@material-ui/core/styles'
-import { AppBar, CssBaseline, Toolbar, Typography } from '@material-ui/core'
+import { AppBar, CssBaseline, Typography } from '@material-ui/core'
 
 const styles = theme => ({
     footer: {
