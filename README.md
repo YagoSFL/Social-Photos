@@ -4,7 +4,7 @@ Aplicativo para ver e curtir fotos postadas pelos usuarios.
 
 # Sobre o build
 
-O app foi desenvolvido com a utilização da seguintes dependencias:
+O app foi desenvolvido com a utilização das seguintes dependencias:
 
 - React (create-react-app) / Redux 
 - Framework Material-UI
