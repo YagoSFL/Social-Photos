@@ -11,7 +11,7 @@ O app foi desenvolvido com a utilização da seguintes dependencias:
 
 # Instalação e execução
 
-Para que a aplicação funcione corretamente os seuintes sofwares devem estar
+Para que a aplicação funcione corretamente os seguintes sofwares devem estar
 devidamente instalados na maquina: 
 
 - NodeJS - versão 8.12 ou superior
